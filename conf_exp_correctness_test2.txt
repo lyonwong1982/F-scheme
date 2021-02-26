@@ -1,0 +1,12 @@
+gamma=0.3
+tau=1048576
+presTheta=0
+presEta=0
+lambda=1024
+epsilon=0.4
+sigma=12
+volume=
+fileName=data/SyskillWebert.data,data/ElectionData.csv,data/connect-4.data,data/covtype.data
+users=50
+CdF=50
+r=0.6

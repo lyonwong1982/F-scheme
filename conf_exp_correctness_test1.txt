@@ -1,0 +1,12 @@
+gamma=0.3
+tau=1048576
+presTheta=0
+presEta=0
+lambda=1024
+epsilon=0.2,0.3,0.4,0.5,0.6,0.7
+sigma=20
+volume=1048576
+fileName=
+users=50
+CdF=50
+r=0.6
